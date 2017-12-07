@@ -15,6 +15,9 @@ RxJS 가이드
 CodePen 2016 인기있던 UI/UX
 - https://codepen.io/2016/popular/pens
 
+짜증나는 윈도우 개발환경
+- https://wanderer.work/articles/windows%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/
+
 # VueJS
 
 Tour of Vue.js
