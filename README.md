@@ -55,3 +55,6 @@ nuxt
 
 VueJS 하이브리드앱 플랫폼
 - https://weex.apache.org/
+
+Starting VueJS
+- http://vuejs.kr/update/2016/12/20/starting-vue/
