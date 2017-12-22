@@ -30,6 +30,9 @@ React 인가 Vue 인가
 Yarn 살펴보기
 - https://www.holaxprogramming.com/2017/12/21/node-yarn-tutorials/
 
+HTML5.2 권고안
+- http://blog.gaerae.com/2017/12/html5-changes.html
+
 # VueJS
 
 Tour of Vue.js
