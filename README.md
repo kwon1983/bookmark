@@ -62,6 +62,9 @@ VueJS 하이브리드앱 플랫폼
 Starting VueJS
 - http://vuejs.kr/update/2016/12/20/starting-vue/
 
+GitLab의 Vue 사용기
+- https://jsdev.kr/t/gitlab-vue/2970
+
 # css
 무료 CSS 아이콘 모음
 - http://fontisto.com/
