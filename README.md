@@ -78,3 +78,8 @@ GitLab의 Vue 사용기
 
 자바스크립트 모션 라이브러리
 - https://popmotion.io/
+
+2017 top 50 자바스크립트 라이브러리
+- https://speckyboy.com/top-50-javascript/
+- https://popmotion.io/라이
+- https://popmotion.io/
