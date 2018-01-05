@@ -33,6 +33,9 @@ Yarn 살펴보기
 HTML5.2 권고안
 - http://blog.gaerae.com/2017/12/html5-changes.html
 
+유용한 자바스크립트 코드 모음집
+- https://30secondsofcode.org/
+
 # VueJS
 
 Tour of Vue.js
