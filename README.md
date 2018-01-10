@@ -36,6 +36,9 @@ HTML5.2 권고안
 유용한 자바스크립트 코드 모음집
 - https://30secondsofcode.org/
 
+자바스크립트 메모리 누수 형태
+- http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C
+
 # VueJS
 
 Tour of Vue.js
