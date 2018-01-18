@@ -74,6 +74,9 @@ Starting VueJS
 GitLab의 Vue 사용기
 - https://jsdev.kr/t/gitlab-vue/2970
 
+Vue-CLI 로 Vue.js 시작하기 (browserify / webpack)
+- https://medium.com/witinweb/vue-cli-%EB%A1%9C-vue-js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-browserify-webpack-22582202cd52
+
 # css
 무료 CSS 아이콘 모음
 - http://fontisto.com/
@@ -87,5 +90,4 @@ GitLab의 Vue 사용기
 
 2017 top 50 자바스크립트 라이브러리
 - https://speckyboy.com/top-50-javascript/
-- https://popmotion.io/라이
 - https://popmotion.io/
