@@ -1,5 +1,8 @@
 # 북마크 참고자료
 
+ES6 문법 정리
+- http://itstory.tk/entry/JavaScript-ES6-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC
+
 모바일웹 iOS11 hotels.com 대응 사례
 - https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989
 
