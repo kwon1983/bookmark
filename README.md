@@ -94,3 +94,6 @@ Vue-CLI 로 Vue.js 시작하기 (browserify / webpack)
 2017 top 50 자바스크립트 라이브러리
 - https://speckyboy.com/top-50-javascript/
 - https://popmotion.io/
+
+텐서플로우 브라우저 버전
+- https://js.tensorflow.org/
